@@ -108,9 +108,9 @@ font-size: small;
 }
 .flex-container-img>div {
   background-color: whitesmoke;
-  width: 600px;
+  width: 400px;
   height: 400px;
-  margin: 8px;
+  margin: 10px;
   text-align: center;
   line-height: 20px;
   font-size: small;
