@@ -1,2 +1,2 @@
 # ltc.github.io
-gym website second try
+gym website, practicing use of flex-boxes
