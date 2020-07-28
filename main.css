@@ -114,7 +114,8 @@ font-size: small;
   line-height: 20px;
   font-size: small;
     }
-    .grow{ transition: all .2s ease-in-out; }
+    .grow{ transition: all .2s ease-in-out; 
+    }
     .grow:hover{
       transform: scale(1.1);
     }
