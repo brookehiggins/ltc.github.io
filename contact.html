@@ -14,11 +14,15 @@
       <a href="testimonials.html">Testimonials</a>
       <a href="contact.html" class="active">Contact</a>
     </div>
-    <form action="/contact.php">
+    <form action="/contact.php" class="text-center" method="post">
         <label for="name">First and Last Name:</label><br>
         <input type="text" value="Your Name"><br>
+        <br>
+        <label for="email" value="Your Email">Email</label><br>
+        <input type="text" value="Your Email"><br>
+        <br>
         <label for="message">Your message here:</label><br>
-        <input type="text" value="Your Message"><br>
+        <textarea name="message" rows="10" cols="45">Enter your message here...</textarea><br>
         <input type="submit" value="Submit">
     </form>
 
