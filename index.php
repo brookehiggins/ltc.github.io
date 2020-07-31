@@ -2,11 +2,11 @@
     $name = $_POST['name'];
     $email = $_POST['email'];
     $message = $_POST['message'];
-    $from = 'From: New Member'
-    $to = 'brooke@cantforget.me'
-    $subject = 'Hello'
+    $from = 'From: New Member';
+    $to = 'narwhales222@gmail.com';
+    $subject = 'Hello';
 
-    $body = "From: $name\n E-mail: $email\n Message:\n $message"
+    $body = "From: $name\n E-mail: $email\n Message:\n $message";
 ?>
 <?php
 if ($_POST['submit']) {
